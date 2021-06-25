@@ -1,6 +1,17 @@
-# coding_test
+# Expense Control Application.
 
-A new Flutter project.
+
+Application developed in flutter as a study of this framework
+
+
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
